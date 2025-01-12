@@ -68,23 +68,15 @@ class Program
 
 
 
-private static float Divisao(float v1, float v2)
-{
-  return v1 / v2;
-}
+private static float Divisao(float v1, float v2) => v1 / v2;
 
-private static float Multiplicacao(float v1, float v2)
-{
-  return v1 * v2;
-}
 
-private static float Subtracao(float v1, float v2)
-{
-  return v1 - v2;
-}
+private static float Multiplicacao(float v1, float v2) => v1 * v2;
 
-static float Soma(float v1, float v2)
-{
-  return v1 + v2;
-}
+
+private static float Subtracao(float v1, float v2) =>  v1 - v2;
+
+
+static float Soma(float v1, float v2) =>  v1 + v2;
+
 }
