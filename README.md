@@ -36,5 +36,4 @@ Outras funcionalidades incluem:
    - Você pode baixar o .NET SDK [aqui](https://dotnet.microsoft.com/download).
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/VANDRESSAGALDINOS/calculadora-basica-csharp.git
-   cd calculadora-basica-csharp
+git clone [https://github.com/VANDRESSAGALDINOS/calculadora-basica-csharp.git](https://github.com/VANDRESSAGALDINOS/calculadora-basica-csharp.git)   cd calculadora-basica-csharp
